@@ -1,4 +1,4 @@
-# Site in Progress
-This repo acts as a site placeholder
+# Market Inn
+Market Inn Pub Website
 
-https://isaacoldwood.github.io/site-in-progress/
+https://marketinn.netlify.app/
